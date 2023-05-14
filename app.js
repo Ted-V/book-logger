@@ -77,7 +77,7 @@ function addBookToLibrary(book) {
 }
 
 //Get add-book-button
-let addBookBtn = document.querySelector(".submit-btn");
+let addBookBtn = document.getElementById("submit-btn");
 
 //On click, add book to library
 addBookBtn.addEventListener("click", function (event) {
