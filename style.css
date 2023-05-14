@@ -61,7 +61,7 @@ form {
   cursor: pointer;
 }
 
-.submit-btn {
+#submit-btn {
   background: #49965b;
   color: #ffffff;
   font-weight: bold;
@@ -72,7 +72,7 @@ form {
   margin-top: 5px;
 }
 
-.submit-btn:hover {
+#submit-btn:hover {
   opacity: 0.9;
 }
 
